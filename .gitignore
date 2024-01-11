@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+2022_3_17f1_1.2.pre6/PhysicsJointBodyFrame/Library
+2022_3_17f1_1.2.pre6/PhysicsJointBodyFrame/Logs
+2022_3_17f1_1.2.pre6/PhysicsJointBodyFrame/obj
+2022_3_17f1_1.2.pre6/PhysicsJointBodyFrame/Temp
