@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1263136070901904810}
   - component: {fileID: 211877893780892731}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Capsule Physx Hinge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
